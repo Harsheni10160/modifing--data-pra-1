@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "modifffiiinngggg dddaattaa",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
